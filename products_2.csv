@@ -1,0 +1,603 @@
+Product Name,Category,Price (Naira),Description
+Coca Cola,Consumables (Food),1000,Refreshing soda drink.
+Pepsi,Consumables (Food),7000,Popular cola beverage.
+Samsung Galaxy Tab,Electronics,13000,High-performance tablet with S Pen.
+MacBook Pro,Electronics,19000,Powerful laptop for professionals.
+Nike Running Shoes,Wearables,25000,Comfortable shoes for running.
+Sony WH-1000XM4,Accessories,6000,Noise-canceling wireless headphones.
+Samsung Galaxy S21,Electronics,12000,Latest smartphone with amazing features.
+Apple Watch Series 6,Wearables,18000,Smartwatch with health tracking.
+Oreo Cookies,Consumables (Food),24000,Delicious chocolate sandwich cookies.
+LG OLED TV,Electronics,30000,Stunning 4K OLED television.
+Dell XPS 13,Electronics,11000,Compact and powerful laptop.
+Bose SoundLink,Accessories,17000,Portable Bluetooth speaker with great sound.
+Adidas Soccer Ball,Accessories,23000,High-quality soccer ball.
+Lipstick,Consumables (Non-Food),29000,Long-lasting cosmetic product.
+iPad Air,Electronics,35000,Versatile tablet for all uses.
+Samsung Smart Fridge,Home Appliances,16000,Fridge with smart features.
+Instant Noodles,Consumables (Food),22000,Quick and easy meal option.
+Xiaomi Mi Band,Wearables,28000,Fitness tracker with heart rate monitor.
+GoPro Hero 9,Electronics,34000,Action camera for adventure enthusiasts.
+KitchenAid Mixer,Home Appliances,40000,Versatile mixer for baking.
+HP Spectre x360,Electronics,21000,2-in-1 laptop with sleek design.
+Tote Bag,Accessories,27000,Stylish bag for everyday use.
+Nest Thermostat,Home Appliances,33000,Smart thermostat for energy saving.
+Cheetos,Consumables (Food),39000,Crunchy cheese-flavored snacks.
+Fitbit Versa,Wearables,45000,Smart fitness watch.
+Canon EOS M50,Electronics,26000,Compact mirrorless camera.
+Burt's Bees Lip Balm,Consumables (Non-Food),32000,Natural lip care product.
+Kindle Paperwhite,Electronics,38000,E-reader with built-in light.
+AirPods Pro,Accessories,44000,Wireless earbuds with active noise cancellation.
+Razer Gaming Mouse,Accessories,50000,High-precision gaming mouse.
+Oven Toaster,Home Appliances,31000,Compact toaster for quick meals.
+Nescafé Coffee,Consumables (Food),37000,Instant coffee for quick preparation.
+JBL Charge 4,Accessories,43000,Portable speaker with power bank.
+Vitamins,Consumables (Non-Food),49000,Daily supplements for health.
+Robot Vacuum Cleaner,Home Appliances,55000,Automated vacuum for cleaning.
+Dell Ultrasharp Monitor,Electronics,36000,High-resolution display.
+Wireless Charger,Accessories,42000,Convenient charging for devices.
+SodaStream,Home Appliances,48000,Make your own soda at home.
+Face Mask,Consumables (Non-Food),54000,Protective face covering.
+Pasta,Consumables (Food),60000,Dried pasta for cooking.
+Skincare Cream,Consumables (Non-Food),41000,Moisturizing skin cream.
+Portable SSD,Electronics,47000,Fast external storage solution.
+Bluetooth Keyboard,Accessories,53000,Wireless keyboard for convenience.
+Sony PlayStation 5,Electronics,59000,Next-gen gaming console.
+LED Desk Lamp,Home Appliances,65000,Adjustable lamp for work.
+Yoga Mat,Accessories,46000,Non-slip mat for yoga practice.
+Wireless Router,Electronics,52000,High-speed internet router.
+Dry Erase Markers,Consumables (Non-Food),58000,Markers for whiteboards.
+Instant Coffee Maker,Home Appliances,64000,Quick coffee brewing.
+Notebook,Consumables (Non-Food),70000,Blank pages for notes.
+Sports Watch,Wearables,51000,Watch for athletes.
+Smart Light Bulbs,Home Appliances,57000,Control your lights with your phone.
+External Hard Drive,Electronics,63000,Additional storage for your data.
+Streaming Stick,Electronics,69000,Stream content on your TV.
+Hand Sanitizer,Consumables (Non-Food),75000,Alcohol-based hand sanitizer.
+Baking Tray,Home Appliances,56000,Essential for baking.
+Cooking Oil,Consumables (Food),62000,Used for frying and cooking.
+Garmin GPS,Electronics,68000,Portable GPS device.
+Air Fryer,Home Appliances,74000,Healthier frying option.
+Scented Candles,Consumables (Non-Food),80000,Candles for fragrance.
+Fitness Resistance Bands,Accessories,61000,For strength training.
+Winter Jacket,Wearables,67000,Warm jacket for cold weather.
+Bluetooth Headphones,Accessories,73000,Comfortable wireless headphones.
+Coffee Mug,Accessories,79000,Perfect for your morning coffee.
+Electric Kettle,Home Appliances,85000,Boil water quickly.
+Granola Bars,Consumables (Food),66000,Healthy snack option.
+Hair Dryer,Home Appliances,72000,For quick hair drying.
+Smartphone Case,Accessories,78000,Protect your phone.
+T-shirt,Wearables,84000,Casual wear.
+Pillow,Home Appliances,90000,Comfortable pillow for sleep.
+Instant Pot,Home Appliances,71000,Multi-cooker for quick meals.
+USB Flash Drive,Electronics,77000,Portable storage device.
+Guitar,Accessories,83000,Musical instrument for beginners.
+Digital Camera,Electronics,89000,Capture high-quality photos.
+Dog Food,Consumables (Food),95000,Nutrition for your pets.
+Plant Pot,Home Appliances,76000,For indoor gardening.
+Wireless Earbuds,Accessories,82000,Compact and portable earbuds.
+Facial Tissue,Consumables (Non-Food),88000,Soft tissues for everyday use.
+Blender,Home Appliances,94000,Blend your smoothies.
+Cereal,Consumables (Food),100000,Breakfast staple.
+Sunglasses,Accessories,81000,Protect your eyes from UV rays.
+Home Security Camera,Electronics,87000,Monitor your home.
+Vacuum Cleaner,Home Appliances,93000,For thorough cleaning.
+Dish Soap,Consumables (Non-Food),99000,For washing dishes.
+Garden Tools,Accessories,105000,Essential tools for gardening.
+Video Game Controller,Accessories,86000,For gaming consoles.
+Digital Watch,Wearables,92000,Stylish and functional.
+Massage Gun,Wearables,98000,For muscle recovery.
+Bluetooth Tracker,Accessories,104000,Keep track of your belongings.
+Pasta Maker,Home Appliances,110000,Make fresh pasta at home.
+Chocolates,Consumables (Food),91000,Sweet treats for everyone.
+Frozen Pizza,Consumables (Food),97000,Convenient meal option.
+Beer,Consumables (Food),103000,Alcoholic beverage.
+Wine,Consumables (Food),109000,Fine wine for special occasions.
+Margarine,Consumables (Food),115000,Used for cooking and baking.
+Baking Soda,Consumables (Food),96000,Essential ingredient for baking.
+Rice,Consumables (Food),102000,Staple food item.
+Flour,Consumables (Food),108000,Basic ingredient for many recipes.
+Honey,Consumables (Food),114000,Natural sweetener.
+Sugar,Consumables (Food),120000,Common sweetener.
+Salt,Consumables (Food),101000,Essential for cooking.
+Pepper,Consumables (Food),107000,Spice for flavoring.
+Ketchup,Consumables (Food),113000,Condiment for burgers and fries.
+Mustard,Consumables (Food),119000,Classic sandwich condiment.
+Mayonnaise,Consumables (Food),125000,Popular dressing for salads.
+Olive Oil,Consumables (Food),106000,Healthy cooking oil.
+Soy Sauce,Consumables (Food),112000,Asian cooking staple.
+Chili Sauce,Consumables (Food),118000,Spicy condiment.
+Jams,Consumables (Food),124000,Sweet spreads for bread.
+Peanut Butter,Consumables (Food),130000,Nutty spread for sandwiches.
+Nut Mix,Consumables (Food),111000,Healthy snack option.
+Popcorn,Consumables (Food),117000,Perfect movie snack.
+Granola,Consumables (Food),123000,Healthy breakfast option.
+Baked Beans,Consumables (Food),129000,Canned food for quick meals.
+Tuna,Consumables (Food),135000,Canned fish for sandwiches.
+Coconut Milk,Consumables (Food),116000,Used in many recipes.
+Vegetable Broth,Consumables (Food),122000,Base for soups and stews.
+Pineapple Juice,Consumables (Food),128000,Refreshing fruit drink.
+Orange Juice,Consumables (Food),134000,Healthy breakfast drink.
+Apple Juice,Consumables (Food),140000,Natural fruit juice.
+Fruit Snacks,Consumables (Food),121000,Chewy fruity treats.
+Muesli,Consumables (Food),127000,Healthy breakfast cereal.
+Frozen Vegetables,Consumables (Food),133000,Convenient meal addition.
+Vegetable Oil,Consumables (Food),139000,Common cooking oil.
+Salsa,Consumables (Food),145000,Spicy dip for snacks.
+Teriyaki Sauce,Consumables (Food),126000,Sweet and savory sauce.
+Pudding,Consumables (Food),132000,Sweet dessert option.
+Frozen Berries,Consumables (Food),138000,Healthy dessert ingredient.
+Cup Noodles,Consumables (Food),144000,Quick and easy noodle meal.
+Maple Syrup,Consumables (Food),150000,Natural sweetener for pancakes.
+Crackers,Consumables (Food),131000,Crunchy snack option.
+Dried Fruits,Consumables (Food),137000,Healthy snacking choice.
+Yogurt,Consumables (Food),143000,Healthy dairy option.
+Sushi,Consumables (Food),149000,Japanese rice rolls.
+Instant Mashed Potatoes,Consumables (Food),155000,Quick side dish option.
+Curry Paste,Consumables (Food),136000,Flavor base for curries.
+Cheese,Consumables (Food),142000,Dairy product for cooking.
+Beef Jerky,Consumables (Food),148000,Savory protein snack.
+Granola Mix,Consumables (Food),154000,Healthy cereal mix.
+Doughnuts,Consumables (Food),160000,Sweet fried pastries.
+Bakery Bread,Consumables (Food),141000,Freshly baked bread.
+Fried Rice,Consumables (Food),147000,Quick meal option.
+Stuffed Peppers,Consumables (Food),153000,Vegetarian meal option.
+Savory Pies,Consumables (Food),159000,Delicious filled pastries.
+Pancake Mix,Consumables (Food),165000,Quick breakfast option.
+Samosas,Consumables (Food),146000,Spicy stuffed pastries.
+Salad Dressing,Consumables (Food),152000,Add flavor to your salads.
+Cream Cheese,Consumables (Food),158000,Spreadable cheese option.
+Pea Protein Powder,Consumables (Non-Food),164000,Supplement for fitness.
+Whey Protein Powder,Consumables (Non-Food),170000,Protein supplement for recovery.
+Energy Bars,Consumables (Food),151000,Quick energy boost.
+Coca Cola,150,Drink,Refreshing carbonated beverage.
+Pepsi,150,Drink,Popular cola-flavored soft drink.
+Fanta,150,Drink,Orange-flavored carbonated drink.
+Sprite,150,Drink,Lemon-lime flavored soft drink.
+Milo,2000,Drink,Chocolate malt beverage mix.
+Nestle Cerelac,2500,Food,Nutritious baby food for infants.
+Indomie Noodles,250,Food,Instant noodles in various flavors.
+Sugar,500,Food,White granulated sugar for sweetening.
+Flour,800,Food,All-purpose flour for baking.
+Rice,2000,Food,Premium quality rice.
+Beans,1500,Food,Rich in protein and fiber.
+Cabbage,500,Food,Fresh vegetable for salads and cooking.
+Tomatoes,300,Food,Juicy tomatoes for cooking.
+Onions,400,Food,Essential ingredient for various dishes.
+Carrots,200,Food,Nutrient-rich vegetable for salads.
+Chicken,2500,Food,Fresh poultry meat for cooking.
+Beef,3000,Food,Quality meat for various recipes.
+Fish,2000,Food,Fresh fish for grilling or frying.
+Cucumber,300,Food,Refreshing vegetable for salads.
+Potatoes,700,Food,Versatile tuber for cooking.
+Eggs,900,Food,High-protein food source.
+Cheese,2000,Food,Dairy product for sandwiches and snacks.
+Yogurt,1500,Food,Probiotic dairy food for digestion.
+Chips,250,Food,Crunchy snacks in various flavors.
+Popcorn,300,Food,Light and fluffy snack.
+Peanut Butter,1200,Food,Spread made from ground peanuts.
+Jam,800,Food,Sweet fruit spread for bread.
+Honey,1500,Food,Natural sweetener from bees.
+Ice Cream,1000,Food,Delicious frozen dessert.
+Chocolate Bar,300,Food,Milk chocolate treat.
+Granola Bar,400,Food,Healthy snack bar with nuts and oats.
+Protein Powder,5000,Food,Supplement for muscle gain.
+Washing Powder,1500,Non-consumable,Detergent for laundry.
+Dish Soap,800,Non-consumable,Cleaner for dishwashing.
+Toilet Paper,1000,Non-consumable,Essential household item.
+Tissue Paper,600,Non-consumable,Soft paper for daily use.
+Trash Bags,500,Non-consumable,Durable bags for waste disposal.
+Light Bulbs,300,Non-consumable,Energy-efficient bulbs for lighting.
+Extension Cord,1000,Non-consumable,Multiple outlet power extension.
+Curtains,2500,Non-consumable,Decorative fabric for windows.
+Bedding Set,5000,Non-consumable,Comfortable bedding for a good night's sleep.
+Kitchen Utensils,1500,Non-consumable,Essential tools for cooking.
+Cutlery Set,2500,Non-consumable,Complete set of knives and forks.
+Blender,8000,Non-consumable,Appliance for smoothies and soups.
+Microwave Oven,25000,Non-consumable,Convenient appliance for reheating food.
+Coffee Maker,7000,Non-consumable,Machine for brewing coffee.
+Electric Kettle,5000,Non-consumable,Fast boiling kettle for hot water.
+Air Fryer,30000,Non-consumable,Healthier frying option with less oil.
+Rice Cooker,8000,Non-consumable,Appliance for cooking rice perfectly.
+Wall Clock,1500,Non-consumable,Decorative clock for timekeeping.
+Samsung Galaxy S21,300000,Electronics,Latest smartphone with high resolution camera.
+iPhone 12,400000,Electronics,Apple smartphone with excellent performance.
+HP Laptop,200000,Electronics,Lightweight laptop with powerful specs.
+Dell XPS 13,250000,Electronics,Premium laptop for professionals.
+Nike Air Max,50000,Fashion,Comfortable and stylish sneakers.
+Adidas UltraBoost,60000,Fashion,Runnings shoes with cushioning technology.
+Levi's Jeans,25000,Fashion,Classic denim jeans for casual wear.
+Zara Shirt,15000,Fashion,Trendy and stylish shirt.
+Nivea Moisturizer,2000,Beauty,Hydrating cream for soft skin.
+Maybelline Lipstick,3000,Beauty,Long-lasting lipstick in various shades.
+Dove Soap,1000,Beauty,Gentle soap for daily use.
+Head & Shoulders Shampoo,3000,Beauty,Anti-dandruff shampoo for healthy scalp.
+Lifebuoy Handwash,1500,Beauty,Antibacterial liquid soap.
+Samsung 55" TV,150000,Electronics,Smart TV with stunning picture quality.
+LG Refrigerator,250000,Electronics,Energy-efficient refrigerator with ample storage.
+Whirlpool Washing Machine,180000,Electronics,Front-load washing machine for efficient cleaning.
+Sony PlayStation 5,400000,Electronics,Next-gen gaming console.
+Book,2500,Books,Various genres for reading pleasure.
+Notebook,800,Stationery,Plain and ruled notebooks for writing.
+Pen,100,Stationery,Ballpoint pen for everyday use.
+Pencil,50,Stationery,Graphite pencil for writing and drawing.
+Marker,200,Stationery,Colorful markers for art and labeling.
+Highlighter,150,Stationery,Fluorescent marker for emphasizing text.
+Glue,300,Stationery,Adhesive for arts and crafts.
+Scissors,500,Stationery,Tool for cutting paper and other materials.
+Ruler,200,Stationery,Measuring tool for drawing lines.
+Calculator,Stationery,1500,Device for performing calculations.
+Coca Cola,Drink,150,Refreshing carbonated beverage.
+Pepsi,150,Drink,Popular cola-flavored soft drink.
+Fanta,150,Drink,Orange-flavored carbonated drink.
+Sprite,150,Drink,Lemon-lime flavored soft drink.
+Milo,2000,Drink,Chocolate malt beverage mix.
+Nestle Cerelac,2500,Food,Nutritious baby food for infants.
+Indomie Noodles,250,Food,Instant noodles in various flavors.
+Sugar,500,Food,White granulated sugar for sweetening.
+Flour,800,Food,All-purpose flour for baking.
+Rice,2000,Food,Premium quality rice.
+Beans,1500,Food,Rich in protein and fiber.
+Cabbage,500,Food,Fresh vegetable for salads and cooking.
+Tomatoes,300,Food,Juicy tomatoes for cooking.
+Onions,400,Food,Essential ingredient for various dishes.
+Carrots,200,Food,Nutrient-rich vegetable for salads.
+Chicken,2500,Food,Fresh poultry meat for cooking.
+Beef,3000,Food,Quality meat for various recipes.
+Fish,2000,Food,Fresh fish for grilling or frying.
+Cucumber,300,Food,Refreshing vegetable for salads.
+Potatoes,700,Food,Versatile tuber for cooking.
+Eggs,900,Food,High-protein food source.
+Cheese,2000,Food,Dairy product for sandwiches and snacks.
+Yogurt,1500,Food,Probiotic dairy food for digestion.
+Chips,250,Food,Crunchy snacks in various flavors.
+Popcorn,300,Food,Light and fluffy snack.
+Peanut Butter,1200,Food,Spread made from ground peanuts.
+Jam,800,Food,Sweet fruit spread for bread.
+Honey,1500,Food,Natural sweetener from bees.
+Ice Cream,1000,Food,Delicious frozen dessert.
+Chocolate Bar,300,Food,Milk chocolate treat.
+Granola Bar,400,Food,Healthy snack bar with nuts and oats.
+Washing Powder,1500,Non-consumable,Detergent for laundry.
+Dish Soap,800,Non-consumable,Cleaner for dishwashing.
+Toilet Paper,1000,Non-consumable,Essential household item.
+Tissue Paper,600,Non-consumable,Soft paper for daily use.
+Trash Bags,500,Non-consumable,Durable bags for waste disposal.
+Light Bulbs,300,Non-consumable,Energy-efficient bulbs for lighting.
+Extension Cord,1000,Non-consumable,Multiple outlet power extension.
+Curtains,2500,Non-consumable,Decorative fabric for windows.
+Bedding Set,5000,Non-consumable,Comfortable bedding for a good night's sleep.
+Kitchen Utensils,1500,Non-consumable,Essential tools for cooking.
+Cutlery Set,2500,Non-consumable,Complete set of knives and forks.
+Blender,8000,Non-consumable,Appliance for smoothies and soups.
+Microwave Oven,25000,Non-consumable,Convenient appliance for reheating food.
+Coffee Maker,7000,Non-consumable,Machine for brewing coffee.
+Electric Kettle,5000,Non-consumable,Fast boiling kettle for hot water.
+Air Fryer,30000,Non-consumable,Healthier frying option with less oil.
+Rice Cooker,8000,Non-consumable,Appliance for cooking rice perfectly.
+Wall Clock,1500,Non-consumable,Decorative clock for timekeeping.
+Samsung Galaxy S21,300000,Electronics,Latest smartphone with high resolution camera.
+iPhone 12,400000,Electronics,Apple smartphone with excellent performance.
+HP Laptop,200000,Electronics,Lightweight laptop with powerful specs.
+Dell XPS 13,250000,Electronics,Premium laptop for professionals.
+Nike Air Max,50000,Fashion,Comfortable and stylish sneakers.
+Adidas UltraBoost,60000,Fashion,Runnings shoes with cushioning technology.
+Levi's Jeans,25000,Fashion,Classic denim jeans for casual wear.
+Zara Shirt,15000,Fashion,Trendy and stylish shirt.
+Nivea Moisturizer,2000,Beauty,Hydrating cream for soft skin.
+Maybelline Lipstick,3000,Beauty,Long-lasting lipstick in various shades.
+Dove Soap,1000,Beauty,Gentle soap for daily use.
+Head & Shoulders Shampoo,3000,Beauty,Anti-dandruff shampoo for healthy scalp.
+Lifebuoy Handwash,1500,Beauty,Antibacterial liquid soap.
+Samsung 55" TV,150000,Electronics,Smart TV with stunning picture quality.
+LG Refrigerator,250000,Electronics,Energy-efficient refrigerator with ample storage.
+Whirlpool Washing Machine,180000,Electronics,Front-load washing machine for efficient cleaning.
+Sony PlayStation 5,400000,Electronics,Next-gen gaming console.
+Book,2500,Books,Various genres for reading pleasure.
+Notebook,800,Stationery,Plain and ruled notebooks for writing.
+Pen,100,Stationery,Ballpoint pen for everyday use.
+Pencil,50,Stationery,Graphite pencil for writing and drawing.
+Marker,200,Stationery,Colorful markers for art and labeling.
+Highlighter,150,Stationery,Fluorescent marker for emphasizing text.
+Glue,300,Stationery,Adhesive for arts and crafts.
+Scissors,500,Stationery,Tool for cutting paper and other materials.
+Ruler,200,Stationery,Measuring tool for drawing lines.
+Calculator,1500,Stationery,Device for performing calculations.
+Oreo Cookies,300,Food,Cream-filled chocolate biscuits.
+Doritos,250,Food,Crispy corn chips with cheese flavor.
+Kellogg's Cornflakes,1000,Food,Crispy breakfast cereal.
+Peanut M&Ms,600,Food,Chocolate-covered peanuts.
+Cadbury Dairy Milk,500,Food,Rich milk chocolate bar.
+Nutella,1500,Food,Hazelnut cocoa spread for bread.
+Lays Chips,250,Food,Potato crisps in various flavors.
+Maltina,200,Drink,Non-alcoholic malt drink.
+Origin Bitters,500,Drink,Herbal drink for digestion.
+Lipton Tea,300,Drink,Refreshing tea for a soothing experience.
+Coconut Water,400,Drink,Natural hydration from coconuts.
+Tropicana Juice,800,Drink,100% pure fruit juice.
+Beef Jerky,1200,Food,Seasoned dried meat for snacking.
+Granola Cereal,700,Food,Healthy breakfast option with nuts.
+Frozen Pizza,2000,Food,Quick meal option with various toppings.
+Pasta,600,Food,Versatile noodle for cooking.
+Tuna,800,Food,Canned fish rich in omega-3.
+Oats,900,Food,Healthy whole grain for breakfast.
+Salmon,2500,Food,Rich in flavor and nutrients.
+Ketchup,500,Food,Tomato-based condiment for fries.
+Mustard,400,Food,Spicy condiment for sandwiches.
+Chili Sauce,600,Food,Spicy sauce for flavoring.
+Mayonnaise,500,Food,Rich and creamy sandwich spread.
+Tofu,800,Food,Plant-based protein for cooking.
+Chickpeas,1000,Food,Nutrient-dense legumes for salads.
+Almond Milk,1500,Food,Dairy alternative made from almonds.
+Avocado,500,Food,Nutritious fruit for healthy dishes.
+Frozen Vegetables,1000,Food,Quick and easy meal options.
+Biscotti,400,Food,Crispy almond-flavored cookies.
+Bagels,250,Food,Chewy breakfast bread.
+Cereal Bars,300,Food,Convenient snack bar for energy.
+Pudding,500,Food,Sweet dessert option in various flavors.
+Fruit Salad,600,Food,Fresh mix of seasonal fruits.
+Sardines,800,Food,Canned fish in oil or tomato sauce.
+Potato Chips,200,Food,Crispy snack in various flavors.
+Ginger Ale,250,Drink,Spicy and sweet carbonated beverage.
+Soda Water,200,Drink,Plain carbonated water for mixing.
+Himalayan Salt,500,Food,Pure mineral-rich salt.
+Basil,300,Food,Herb for flavoring dishes.
+Vanilla Extract,1200,Food,Essential ingredient for baking.
+Cocoa Powder,1000,Food,Unsweetened chocolate powder for baking.
+Chia Seeds,1500,Food,Nutrient-rich seeds for smoothies.
+Men's T-Shirt,3000,Clothing,Casual cotton t-shirt available in various colors.
+Women's Blouse,3500,Clothing,Stylish blouse suitable for work and casual outings.
+Jeans,5000,Clothing,Comfortable denim jeans for everyday wear.
+Chino Pants,4500,Clothing,Lightweight cotton pants for a smart-casual look.
+Leather Jacket,15000,Clothing,Stylish jacket perfect for cooler weather.
+Summer Dress,7000,Clothing,Light and airy dress for warm days.
+Hoodie,6000,Clothing,Cozy hooded sweatshirt for casual wear.
+Track Pants,4000,Clothing,Comfortable pants for sports and lounging.
+Socks,1000,Clothing,Pack of colorful socks for everyday use.
+Winter Coat,20000,Clothing,Insulated coat for cold weather.
+Swim Shorts,3000,Clothing,Quick-dry shorts for beach outings.
+Yoga Pants,5000,Clothing,Stretchy pants ideal for workouts.
+Formal Shirt,4000,Clothing,Classic shirt for formal occasions.
+Skirt,4500,Clothing,Fashionable skirt for various outfits.
+Overalls,6000,Clothing,Stylish and functional for casual wear.
+Cardigan,5000,Clothing,Lightweight knitwear for layering.
+Blazer,10000,Clothing,Smart jacket for professional attire.
+Cap,2000,Clothing,Trendy cap for sun protection.
+Beanie,1500,Clothing,Warm hat for cold weather.
+Scarf,2500,Clothing,Stylish accessory for warmth and fashion.
+Belt,3000,Clothing,Classic leather belt for men and women.
+Watch,10000,Accessories,Stylish wristwatch for men and women.
+Sunglasses,5000,Accessories,UV protection sunglasses in various styles.
+Handbag,12000,Accessories,Fashionable handbag for daily use.
+Backpack,8000,Accessories,Durable backpack for school and travel.
+Wallet,5000,Accessories,Compact wallet for cards and cash.
+Bracelet,3000,Accessories,Stylish wrist accessory for all occasions.
+Earrings,4000,Accessories,Fashionable earrings to enhance any outfit.
+Necklace,6000,Accessories,Elegant necklace for special occasions.
+Ring,5000,Accessories,Beautiful ring available in various styles.
+Sandals,4000,Footwear,Comfortable sandals for summer wear.
+Sneakers,8000,Footwear,Trendy sneakers for everyday activities.
+Formal Shoes,10000,Footwear,Classic shoes for formal wear.
+Boots,12000,Footwear,Durable boots for various occasions.
+Flip Flops,2000,Footwear,Casual flip flops for beach and home.
+Slippers,1500,Footwear,Comfortable indoor slippers.
+Tote Bag,7000,Accessories,Large and stylish tote for shopping and travel.
+Umbrella,1500,Accessories,Compact umbrella for rainy days.
+Hairdryer,5000,Beauty,Portable hair dryer for styling.
+Straightener,6000,Beauty,Hair straightener for smooth hairstyles.
+Curling Iron,7000,Beauty,Curling iron for creating waves and curls.
+Makeup Brush Set,3000,Beauty,Essential brushes for applying makeup.
+Perfume,8000,Beauty,Long-lasting fragrance for everyday use.
+Body Lotion,2000,Beauty,Nourishing lotion for soft skin.
+Facial Cleanser,1500,Beauty,Gentle cleanser for daily skincare.
+Sunscreen,2500,Beauty,SPF protection for sunny days.
+Lip Balm,800,Beauty,Hydrating balm for soft lips.
+Face Mask,1200,Beauty,Nourishing mask for skincare routine.
+Nail Polish,1000,Beauty,Colorful nail polish for manicures.
+Hair Gel,1500,Beauty,Styling gel for holding hairstyles.
+Makeup Remover,1500,Beauty,Gentle remover for makeup.
+Facial Serum,3000,Beauty,Serum for youthful skin.
+Eye Shadow Palette,4000,Beauty,Versatile palette for eye makeup.
+Foundation,5000,Beauty,Base makeup for a flawless complexion.
+Concealer,2500,Beauty,Cover-up for blemishes and dark circles.
+Blush,3000,Beauty,Color for the cheeks to enhance the look.
+Shampoo,1500,Beauty,Hair cleansing product for all hair types.
+Conditioner,2000,Beauty,Moisturizing product for smooth hair.
+Men's Suit,30000,Clothing,Formal suit for business and events.
+Wedding Dress,80000,Clothing,Elegant gown for special occasions.
+Tuxedo,50000,Clothing,Classic evening wear for formal events.
+Gym Shorts,3000,Clothing,Comfortable shorts for workouts.
+Running Shoes,10000,Footwear,Supportive shoes for running.
+Duffle Bag,6000,Accessories,Versatile bag for gym or travel.
+Leather Backpack,15000,Accessories,Stylish leather bag for daily use.
+Raincoat,7000,Clothing,Waterproof coat for rainy days.
+Graphic Tee,4000,Clothing,T-shirt with unique prints and designs.
+Pajama Set,6000,Clothing,Cozy pajamas for sleep.
+Athletic Socks,2000,Clothing,Performance socks for sports.
+Long Sleeve Shirt,4500,Clothing,Lightweight long-sleeve top for layering.
+Cargo Shorts,3500,Clothing,Practical shorts with multiple pockets.
+Bikini,3000,Clothing,Stylish swimwear for the beach.
+Winter Gloves,2500,Clothing,Warm gloves for cold weather.
+Wristband,1500,Accessories,Stylish wrist accessory for sports.
+Bolo Tie,4000,Accessories,Western-style necktie for casual outfits.
+Silk Scarf,5000,Accessories,Luxurious silk scarf for fashion.
+Crossbody Bag,6000,Accessories,Convenient bag for hands-free carry.
+Fedora Hat,3000,Clothing,Stylish hat for fashion enthusiasts.
+Anorak Jacket,8000,Clothing,Lightweight jacket for wind and rain.
+Shorts,3500,Clothing,Casual shorts for warm weather.
+Thermal Underwear,4000,Clothing,Warm base layer for cold days.
+Choker Necklace,2500,Accessories,Trendy neck accessory for fashion.
+Fanny Pack,3000,Accessories,Stylish pack for hands-free convenience.
+Puffer Jacket,12000,Clothing,Insulated jacket for extreme weather.
+Sports Bra,3000,Clothing,Supportive bra for workouts.
+Running Shorts,2500,Clothing,Lightweight shorts for running.
+Baby Stroller,40000,Baby,Baby stroller for easy transportation.
+Diaper Bag,8000,Baby,Spacious bag for carrying baby essentials.
+Baby Monitor,12000,Baby,Wireless monitor for baby’s safety.
+Pacifier,500,Baby,Soft pacifier for soothing babies.
+Baby Blanket,3000,Baby,Warm blanket for newborns.
+High Chair,15000,Baby,Adjustable chair for feeding.
+Baby Walker,7000,Baby,Helps babies learn to walk safely.
+Crib,50000,Baby,Safe and comfortable sleeping space for infants.
+Teething Toy,1500,Baby,Safe toy for teething babies.
+Baby Clothes Set,5000,Baby,Comfortable outfit for infants.
+Play Mat,4000,Baby,Soft mat for babies to play on.
+Sippy Cup,1000,Baby,Spill-proof cup for toddlers.
+Teddy Bear,2000,Toys,Soft toy for children to cuddle.
+Action Figure,3000,Toys,Collectible figure from popular movies.
+Dollhouse,12000,Toys,Miniature house for doll play.
+Building Blocks,4000,Toys,Colorful blocks for creative play.
+Puzzle Set,2500,Toys,Engaging puzzles for children.
+Toy Car,1500,Toys,Fun toy car for kids to play with.
+Board Game,5000,Toys,Family-friendly board game for game nights.
+Outdoor Play Set,25000,Toys,Playground set for outdoor fun.
+Remote Control Car,6000,Toys,Exciting RC car for racing.
+Bicycle,25000,Toys,Kids’ bicycle for outdoor adventures.
+Trampoline,35000,Toys,Fun trampoline for jumping.
+Shoes for Toddlers,3500,Shoes,Comfortable shoes for little feet.
+Sneakers for Kids,6000,Shoes,Stylish sneakers for active kids.
+Sandals for Babies,2000,Shoes,Soft sandals for warm weather.
+Dress Shoes for Kids,4000,Shoes,Formal shoes for special occasions.
+Winter Boots for Kids,8000,Shoes,Insulated boots for cold weather.
+Water Shoes,2500,Shoes,Quick-dry shoes for beach and pool.
+Baby Booties,1500,Shoes,Warm booties for newborns.
+Slippers for Kids,1500,Shoes,Cozy slippers for indoor use.
+Kitchen Blender,15000,Kitchen Appliances,Multi-purpose blender for smoothies.
+Microwave Oven,30000,Kitchen Appliances,Compact microwave for quick meals.
+Electric Kettle,8000,Kitchen Appliances,Fast boiling kettle for tea and coffee.
+Rice Cooker,12000,Kitchen Appliances,Convenient cooker for rice.
+Toaster,5000,Kitchen Appliances,Easy-to-use toaster for breakfast.
+Coffee Maker,10000,Kitchen Appliances,Automatic coffee machine for brewing.
+Food Processor,25000,Kitchen Appliances,Versatile processor for meal prep.
+Electric Griddle,10000,Kitchen Appliances,Flat cooking surface for pancakes.
+Slow Cooker,12000,Kitchen Appliances,Ideal for cooking stews and soups.
+Hand Mixer,7000,Kitchen Appliances,Compact mixer for baking.
+Stand Mixer,30000,Kitchen Appliances,Powerful mixer for serious bakers.
+Juicer,12000,Kitchen Appliances,Fresh juice extractor for healthy drinks.
+Dishwasher,70000,Kitchen Appliances,Automatic machine for cleaning dishes.
+Oven,50000,Kitchen Appliances,Convection oven for baking and roasting.
+Air Fryer,25000,Kitchen Appliances,Healthy fryer for crispy food.
+Induction Cooktop,20000,Kitchen Appliances,Efficient portable cooking surface.
+Food Steamer,15000,Kitchen Appliances,Healthy cooking method for vegetables.
+Electric Can Opener,4000,Kitchen Appliances,Convenient can opener for kitchen use.
+Blender Bottle,2000,Kitchen Appliances,Portable bottle for shakes and smoothies.
+Cookware Set,20000,Kitchen Appliances,Complete set of pots and pans.
+Cutlery Set,8000,Kitchen Appliances,Essential knives and utensils for cooking.
+Measuring Cups,1500,Kitchen Appliances,Accurate measuring tools for baking.
+Kitchen Scale,4000,Kitchen Appliances,Digital scale for precise measurements.
+Baking Sheet,2500,Kitchen Appliances,Non-stick sheet for baking cookies.
+Pizza Stone,5000,Kitchen Appliances,Stone for perfect homemade pizza.
+Serving Platter,3000,Kitchen Appliances,Elegant platter for serving food.
+Potato Peeler,1000,Kitchen Appliances,Handy tool for peeling vegetables.
+Grater,1500,Kitchen Appliances,Essential tool for cheese and vegetables.
+Chopping Board,2000,Kitchen Appliances,Durable surface for food preparation.
+Spice Rack,5000,Kitchen Appliances,Organized rack for spices.
+Knife Set,10000,Kitchen Appliances,Professional knives for the kitchen.
+Apron,2000,Kitchen Appliances,Protective wear for cooking.
+Reusable Food Storage Bags,2500,Kitchen Appliances,Eco-friendly bags for storing food.
+Wine Glass Set,4000,Kitchen Appliances,Elegant glasses for enjoying wine.
+Baking Mat,3000,Kitchen Appliances,Non-stick mat for baking.
+Skillet,4000,Kitchen Appliances,Versatile frying pan for cooking.
+Soup Pot,7000,Kitchen Appliances,Deep pot for soups and stews.
+Ice Cream Maker,15000,Kitchen Appliances,Make homemade ice cream easily.
+Blow Torch,8000,Kitchen Appliances,Useful for caramelizing and cooking.
+Unique Product 101,Miscellaneous,157000,Description for unique product.
+Unique Product 102,Miscellaneous,163000,Description for unique product.
+Unique Product 103,Miscellaneous,169000,Description for unique product.
+Unique Product 104,Miscellaneous,175000,Description for unique product.
+Unique Product 105,Miscellaneous,156000,Description for unique product.
+Unique Product 106,Miscellaneous,162000,Description for unique product.
+Unique Product 107,Miscellaneous,168000,Description for unique product.
+Unique Product 108,Miscellaneous,174000,Description for unique product.
+Unique Product 109,Miscellaneous,180000,Description for unique product.
+Unique Product 110,Miscellaneous,161000,Description for unique product.
+Unique Product 111,Miscellaneous,167000,Description for unique product.
+Unique Product 112,Miscellaneous,173000,Description for unique product.
+Unique Product 113,Miscellaneous,179000,Description for unique product.
+Unique Product 114,Miscellaneous,185000,Description for unique product.
+Unique Product 115,Miscellaneous,166000,Description for unique product.
+Unique Product 116,Miscellaneous,172000,Description for unique product.
+Unique Product 117,Miscellaneous,178000,Description for unique product.
+Unique Product 118,Miscellaneous,184000,Description for unique product.
+Unique Product 119,Miscellaneous,190000,Description for unique product.
+Unique Product 120,Miscellaneous,171000,Description for unique product.
+Unique Product 121,Miscellaneous,177000,Description for unique product.
+Unique Product 122,Miscellaneous,183000,Description for unique product.
+Unique Product 123,Miscellaneous,189000,Description for unique product.
+Unique Product 124,Miscellaneous,195000,Description for unique product.
+Unique Product 125,Miscellaneous,176000,Description for unique product.
+Unique Product 126,Miscellaneous,182000,Description for unique product.
+Unique Product 127,Miscellaneous,188000,Description for unique product.
+Unique Product 128,Miscellaneous,194000,Description for unique product.
+Unique Product 129,Miscellaneous,200000,Description for unique product.
+Unique Product 130,Miscellaneous,181000,Description for unique product.
+Unique Product 131,Miscellaneous,187000,Description for unique product.
+Unique Product 132,Miscellaneous,193000,Description for unique product.
+Unique Product 133,Miscellaneous,199000,Description for unique product.
+Unique Product 134,Miscellaneous,205000,Description for unique product.
+Unique Product 135,Miscellaneous,186000,Description for unique product.
+Unique Product 136,Miscellaneous,192000,Description for unique product.
+Unique Product 137,Miscellaneous,198000,Description for unique product.
+Unique Product 138,Miscellaneous,204000,Description for unique product.
+Unique Product 139,Miscellaneous,210000,Description for unique product.
+Unique Product 140,Miscellaneous,191000,Description for unique product.
+Unique Product 141,Miscellaneous,197000,Description for unique product.
+Unique Product 142,Miscellaneous,203000,Description for unique product.
+Unique Product 143,Miscellaneous,209000,Description for unique product.
+Unique Product 144,Miscellaneous,215000,Description for unique product.
+Unique Product 145,Miscellaneous,196000,Description for unique product.
+Unique Product 146,Miscellaneous,202000,Description for unique product.
+Unique Product 147,Miscellaneous,208000,Description for unique product.
+Unique Product 148,Miscellaneous,214000,Description for unique product.
+Unique Product 149,Miscellaneous,220000,Description for unique product.
+Unique Product 150,Miscellaneous,201000,Description for unique product.
+Unique Product 151,Miscellaneous,207000,Description for unique product.
+Unique Product 152,Miscellaneous,213000,Description for unique product.
+Unique Product 153,Miscellaneous,219000,Description for unique product.
+Unique Product 154,Miscellaneous,225000,Description for unique product.
+Unique Product 155,Miscellaneous,206000,Description for unique product.
+Unique Product 156,Miscellaneous,212000,Description for unique product.
+Unique Product 157,Miscellaneous,218000,Description for unique product.
+Unique Product 158,Miscellaneous,224000,Description for unique product.
+Unique Product 159,Miscellaneous,230000,Description for unique product.
+Unique Product 160,Miscellaneous,211000,Description for unique product.
+Unique Product 161,Miscellaneous,217000,Description for unique product.
+Unique Product 162,Miscellaneous,223000,Description for unique product.
+Unique Product 163,Miscellaneous,229000,Description for unique product.
+Unique Product 164,Miscellaneous,235000,Description for unique product.
+Unique Product 165,Miscellaneous,216000,Description for unique product.
+Unique Product 166,Miscellaneous,222000,Description for unique product.
+Unique Product 167,Miscellaneous,228000,Description for unique product.
+Unique Product 168,Miscellaneous,234000,Description for unique product.
+Unique Product 169,Miscellaneous,240000,Description for unique product.
+Unique Product 170,Miscellaneous,221000,Description for unique product.
+Unique Product 171,Miscellaneous,227000,Description for unique product.
+Unique Product 172,Miscellaneous,233000,Description for unique product.
+Unique Product 173,Miscellaneous,239000,Description for unique product.
+Unique Product 174,Miscellaneous,245000,Description for unique product.
+Unique Product 175,Miscellaneous,226000,Description for unique product.
+Unique Product 176,Miscellaneous,232000,Description for unique product.
+Unique Product 177,Miscellaneous,238000,Description for unique product.
+Unique Product 178,Miscellaneous,244000,Description for unique product.
+Unique Product 179,Miscellaneous,250000,Description for unique product.
+Unique Product 180,Miscellaneous,231000,Description for unique product.
+Unique Product 181,Miscellaneous,237000,Description for unique product.
+Unique Product 182,Miscellaneous,243000,Description for unique product.
+Unique Product 183,Miscellaneous,249000,Description for unique product.
+Unique Product 184,Miscellaneous,255000,Description for unique product.
+Unique Product 185,Miscellaneous,236000,Description for unique product.
+Unique Product 186,Miscellaneous,242000,Description for unique product.
+Unique Product 187,Miscellaneous,248000,Description for unique product.
+Unique Product 188,Miscellaneous,254000,Description for unique product.
+Unique Product 189,Miscellaneous,260000,Description for unique product.
+Unique Product 190,Miscellaneous,241000,Description for unique product.
+Unique Product 191,Miscellaneous,247000,Description for unique product.
+Unique Product 192,Miscellaneous,253000,Description for unique product.
+Unique Product 193,Miscellaneous,259000,Description for unique product.
+Unique Product 194,Miscellaneous,265000,Description for unique product.
+Unique Product 195,Miscellaneous,246000,Description for unique product.
+Unique Product 196,Miscellaneous,252000,Description for unique product.
+Unique Product 197,Miscellaneous,258000,Description for unique product.
+Unique Product 198,Miscellaneous,264000,Description for unique product.
+Unique Product 199,Miscellaneous,270000,Description for unique product.
+Unique Product 200,Miscellaneous,251000,Description for unique product.
